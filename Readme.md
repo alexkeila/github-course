@@ -1,4 +1,5 @@
-sdofinsigndsgiudbgidsbgs
+#Exemplo de REVERT
+
 # Git Course
 
 Este é um repositório teste paa ensinar como o Git funciona.
